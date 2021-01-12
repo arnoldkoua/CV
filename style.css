@@ -4,11 +4,11 @@ body {
 }
 
 
-/* .contenu {
-    width: 800px;
+.contenu {
+/*     width: 800px; */
     width: 60%;
     margin: 0 auto;
-} */
+}
 
 .noprint {
     float: left;
